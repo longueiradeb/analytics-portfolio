@@ -1,0 +1,6 @@
+# Local virtual environment (rebuild from requirements.txt)
+.venv/
+
+# Jupyter checkpoints & macOS clutter
+.ipynb_checkpoints/
+.DS_Store

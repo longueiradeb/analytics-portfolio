@@ -1,0 +1,8 @@
+# Product & Marketing Analytics.  Install:  pip install -r requirements.txt
+
+numpy==2.4.6          # arrays & math
+pandas==3.0.3         # tables / DataFrames
+scipy==1.18.0         # bounded regression (marketing mix model)
+statsmodels==0.14.6   # A/B tests, power & geo-lift regression
+matplotlib==3.11.0    # charts
+jupyterlab==4.6.1     # to open and run the notebook
